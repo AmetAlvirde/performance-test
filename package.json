@@ -24,8 +24,6 @@
     "@emotion/styled": "^11.3.0",
     "@testing-library/jest-dom": "^5.14.1",
     "axios": "^0.21.1",
-    "calculate-payments": "git+http://prestigos-git/prestamos/calculate-payments.git#f6df877af284dd4a26cd659b3be6e2769ca73fb7",
-    "casham-sdk": "git+http://prestigos-git/prestamos/casham-sdk.git#943c9b862cd9bf0f39af949315a2f5f0fca20ef1",
     "cross-env": "^7.0.3",
     "framer-motion": "^4.1.17",
     "moment": "^2.29.1",
